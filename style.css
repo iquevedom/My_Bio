@@ -49,6 +49,10 @@ a {
   float: left;
 }
 
+#contact-info {
+  width: 200px;
+}
+
 #main-bio {
   width: 70%;
 }

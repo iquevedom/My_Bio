@@ -128,8 +128,8 @@ h3, h2 {
   float: left;
   width: 100%;
   max-width: 960px;
-  padding: 30px;
-  margin: 0 0 40px;
+  padding: 15px;
+  margin: 0 0 20px;
   background: #ffffff;
   border: 1px solid #dddddd;
 }
@@ -139,7 +139,7 @@ h3, h2 {
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 320px;
   margin: 20px 0 25px;
   overflow: auto;
 }

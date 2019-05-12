@@ -13,4 +13,4 @@ I'm a Full Stack Developer student improving my coding skills. I want to learn a
 
 ## Linkedin
 
-* [Gif](https://www.linkedin.com/in/isidro-quevedo/)
+* [My Profile](https://www.linkedin.com/in/isidro-quevedo/)

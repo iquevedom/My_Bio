@@ -3,6 +3,8 @@ I'm a Full Stack Developer student improving my coding skills. I want to learn a
 
 ## Projects
 
+* [This bio](https://iquevedom.github.io/My_Bio/)
+
 * [The first one!! Psychic Game](https://iquevedom.github.io/Psychic-Game/)
 * [Gif](https://iquevedom.github.io/Giphy_API/)
 * [Train Scheddule](https://iquevedom.github.io/train_scheduler_assignment/)

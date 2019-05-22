@@ -1,6 +1,8 @@
 # Isidro Quevedo
 I'm a Full Stack Developer student improving my coding skills. I want to learn about html, css, javascript, nodejs, Express.js, Git... all the tools that i need to be a full stack web developer
 
+____
+
 ## Projects
 
 * [This bio](https://iquevedom.github.io/My_Bio/)
@@ -11,6 +13,8 @@ I'm a Full Stack Developer student improving my coding skills. I want to learn a
 * [Out of the park (contributor)](https://github.com/irishjedi77/Parking)
 * [Language Interpretation and Recognition Interface](https://github.com/iquevedom/liri-node-app)
 * [bamazon-CLI-app](https://github.com/iquevedom/bamazon-CLI-app)
+
+____
 
 ## Linkedin
 

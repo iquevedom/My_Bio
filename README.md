@@ -1,5 +1,5 @@
 # Isidro Quevedo
-I'm a Full Stack Developer student improving my coding skills. I want to learn about html, css, javascript, nodejs, Express.js, Git... all the tools that i need to be a full stack web developer
+I'm studying to become a Full Stack Web Developer. I'm improving my development skills by learning html, css, javascript, nodejs, Express.js, Git, MySQL, MongoDB, REACT, MERN, Java .......
 
 ____
 

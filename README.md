@@ -14,7 +14,7 @@ ____
 | [Out of the park (contributor)](https://github.com/irishjedi77/Parking) | Parking whiz, Zomato and Google Maps API´s |  |
 | [Language Interpretation and Recognition Interface](https://github.com/iquevedom/liri-node-app) | node APP, Bands in Town, OMDB and Spotify API´s | node app |
 | [bamazon-CLI-app](https://github.com/iquevedom/bamazon-CLI-app) | node Bussiness Management APP using MySQL | node app |
-| [FriendFinder](https://github.com/iquevedom/FriendFinder) | Full-stack site that take in results from users' surveys | [FFinder](https://guarded-sands-81391.herokuapp.com/survey.html) |
+| [FriendFinder](https://github.com/iquevedom/FriendFinder) | Full-stack site that take in results from users' surveys | [FFinder](https://guarded-sands-81391.herokuapp.com) |
 ____
 
 ## Linkedin

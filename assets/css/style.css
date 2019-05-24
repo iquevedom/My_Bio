@@ -21,6 +21,11 @@ body {
   clear: both;
 }
 
+.fa-linkedin-square, .fa-envelope {
+  font-size:50px;
+  color : blue  
+}
+
 h1,
 h2,
 h3,

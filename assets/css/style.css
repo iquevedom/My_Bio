@@ -233,17 +233,18 @@ input[type=submit] {
 }
 
 .tooltip-content {
+  line-height: normal;
   display: none;
   position: absolute;
   top: 25%;
   left: 5%;
   right: 5%;
   text-align: center;
-  font-size: 15px;
+  font-size: 10px;
   color: white;
   background-color: rgb(76, 164, 232);
-  border-radius: 50%;
-  padding: .5em;
+  /* border-radius: 25%; */
+ /*  padding: .05em; */
 }
 
 .prueba:hover .tooltip-content {

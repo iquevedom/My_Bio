@@ -19,8 +19,6 @@ ____
 | [LilyPods (contributor)](https://github.com/sgttenor/LillyPods) | Access to new and favorite podcasts | [LilyPods](https://still-waters-40232.herokuapp.com/) |
 | [chau ](https://github.com/iquevedom/chau) | Scrapes stories from a news outlet and display them for the user | [chau](#) |
 
-
-https://github.com/iquevedom/chau
 ____
 
 ## Linkedin

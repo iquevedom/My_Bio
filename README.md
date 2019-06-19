@@ -18,7 +18,7 @@ ____
 | [Eat-Da-Burger!](https://github.com/iquevedom/burguer) | App that lets users input the names of burgers they'd like to eat | [eatdaBurger](https://radiant-falls-17293.herokuapp.com/) |
 | [LilyPods (contributor)](https://github.com/sgttenor/LillyPods) | Access to new and favorite podcasts | [LilyPods](https://still-waters-40232.herokuapp.com/) |
 | [chau ](https://github.com/iquevedom/chau) | Scrapes stories from a news outlet and display them for the user | [chau](https://floating-peak-21160.herokuapp.com/) |
-| [clicky-game ](https://github.com/iquevedom/react-clicky-game) | REACT UI components, clicky-game | [clicky-game](https://github.com/iquevedom/react-clicky-game) |
+| [clicky-game ](https://github.com/iquevedom/react-clicky-game) | REACT UI components, clicky-game | [clicky-game](https://fast-tor-94359.herokuapp.com/) |
 
 ____
 

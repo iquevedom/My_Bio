@@ -328,3 +328,7 @@ span, .anc {
   color : #11999E;
   margin-left : 5px;
 }
+
+.anc:hover {
+  color : rgb(125, 245, 245);
+}

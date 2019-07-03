@@ -37,6 +37,7 @@ h2,
 h3,
 p {
   margin-bottom: 20px;
+
 }
 
 .partial {
@@ -164,6 +165,11 @@ h3, h2 {
 }
 
 /* portfolio page */
+
+.img-fluid{
+  max-width: 100%;
+  height: auto;
+}
 
 .work {
   position: relative;
@@ -340,4 +346,14 @@ span, .anc {
 
 .anc:hover {
   color : rgb(125, 245, 245);
+}
+
+
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  p {
+float : left;
+     font-size: 1rem; 
+  }
 }

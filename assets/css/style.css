@@ -184,7 +184,7 @@ h2 {
 /* main */
 
 #main-container {
-  padding-top: 90px;
+  padding-top: 100px;
   padding-bottom: 0;
 /*   min-height: calc(100vh - 70px); */
 }
@@ -208,7 +208,8 @@ h2 {
 .summary {
   color : #4aaaa5;
   font-size: 25px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
 }
 
 .feature-box {
@@ -332,8 +333,9 @@ input[type="submit"] {
   border: 0 none;
 }
 
-.a {
-  color: white;
+.resume {
+  color: #4aaaa5;
+  font-size: 1.5rem;
 }
 
 .tooltip-content {
@@ -435,12 +437,13 @@ span,
   p {
     float: left;
     font-size: 1rem;
+    line-height: 3;
   }
 }
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 @media screen and (max-width: 600px) {
   p {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
 }
